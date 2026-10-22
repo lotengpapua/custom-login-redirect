@@ -1,5 +1,5 @@
 === Custom Login & Redirect Manager ===
-Contributors: dprpapatengah
+Contributors: Loteng Anova Technology By Loteng Kreatif
 Tags: login, redirect, logout, wps-hide-login, page-template
 Requires at least: 4.1
 Tested up to: 6.8
